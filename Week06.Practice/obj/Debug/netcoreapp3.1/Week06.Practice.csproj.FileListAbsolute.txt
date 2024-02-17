@@ -1,0 +1,14 @@
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/bin/Debug/netcoreapp3.1/Week06.Practice
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/bin/Debug/netcoreapp3.1/Week06.Practice.deps.json
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/bin/Debug/netcoreapp3.1/Week06.Practice.runtimeconfig.json
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/bin/Debug/netcoreapp3.1/Week06.Practice.runtimeconfig.dev.json
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/bin/Debug/netcoreapp3.1/Week06.Practice.dll
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/bin/Debug/netcoreapp3.1/Week06.Practice.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/obj/Debug/netcoreapp3.1/Week06.Practice.csproj.AssemblyReference.cache
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/obj/Debug/netcoreapp3.1/Week06.Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/obj/Debug/netcoreapp3.1/Week06.Practice.AssemblyInfoInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/obj/Debug/netcoreapp3.1/Week06.Practice.AssemblyInfo.cs
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/obj/Debug/netcoreapp3.1/Week06.Practice.csproj.CoreCompileInputs.cache
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/obj/Debug/netcoreapp3.1/Week06.Practice.dll
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/obj/Debug/netcoreapp3.1/Week06.Practice.pdb
+/Users/kamranimranli/Desktop/CodeAcademy/Practice/Week06.Practice/Week06.Practice/obj/Debug/netcoreapp3.1/Week06.Practice.genruntimeconfig.cache
